@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 10%;
+    background-color: white;
+    overflow:hidden
+}
+.image-container{
+    flex: 1;
+}
+.image-container img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.text-container{
+    flex: 1;
+    padding: 40px;
+    flex-direction: column;
+    justify-content: center;
+}
+.text-container h2{
+    font-size: 2em;
+    color: red;
+}

@@ -1,0 +1,116 @@
+*{
+    margin:0px;
+    margin: 1px;
+}
+body{
+    font-family: sans-serif;
+    font-size:15px;
+    background: linear-gradient(rgb(232,232,232),
+    rgb(166,165,165));
+}
+h3{
+display:none;
+}
+nav{
+ align-items: center;   
+ margin: 1px;
+ width: 100%;
+}
+nav ul li{
+    display: inline-block;
+    padding: 8px;
+    color: aliceblue;
+    background:rgb(12, 12, 12);
+}
+nav ul{
+    list-style: none;
+    background: black;
+}
+nav ul li:hover{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    padding: 4px;
+    background: white;
+    color: black;
+}
+section{
+    background: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: auto;
+    width: auto;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+    padding: 15px;
+}
+h2{
+    font-size: 25px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2:hover{
+    padding: 2px;
+    color: brown;
+}
+section{
+    width: auto;
+    margin: auto;
+    text-align: center;
+}
+section ul{
+    width: 100%;
+    list-style:none;
+}
+section ul li{
+    text-align: center;
+    font-family: sans-serif;
+    color: aqua;
+    background: white;
+    display: inline-block;
+    padding: 1.8%;
+    
+}
+h4{
+    font-size: 12px;
+    color: white;
+}
+section ul li{
+    background: none;
+    border-radius: 5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+}
+table tr td a img:hover{
+    max-width: 100%;
+    background-color: transparent;
+}
+section ul li a img{
+    max-width: 100%;
+    background-color: transparent;
+}
+section ul li a img:hover{
+    background: rgb(5, 5, 5);
+    border-radius: 5px;
+    -moz-border-radius:35px;    
+    -webkit-border-radius:35px;
+}
+section ul li{
+    background: none;
+    border-radius: 5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+}
+table tr td a img:hover{
+    max-width: 100%;
+    background-color: transparent;
+}
+section ul li a img{
+    max-width: 100%;
+    background-color: transparent;
+}
+section ul li a img:hover{
+    background: rgb(5, 5, 5);
+    border-radius: 5px;
+    -moz-border-radius:35px;    
+    -webkit-border-radius:35px;
+}

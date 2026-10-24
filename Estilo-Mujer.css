@@ -1,0 +1,17 @@
+.promo-section{
+    background-color: bisque;
+    padding: 80px 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.conten-wrapper{
+     max-width: 900px;
+
+}
+.subtitle{
+    display: block;
+    color: blueviolet;
+
+
+}
